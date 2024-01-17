@@ -4,4 +4,5 @@
 
 **This is bold text**
 
-[Python script]([https://pages.github.com/](https://colab.research.google.com/drive/1nddka-PKha7y1T9zZ99O858QtpI7sc0C?usp=sharing)https://colab.research.google.com/drive/1nddka-PKha7y1T9zZ99O858QtpI7sc0C?usp=sharing)
+[Python script](https://colab.research.google.com/drive/1nddka-PKha7y1T9zZ99O858QtpI7sc0C?usp=sharing)
+
